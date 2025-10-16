@@ -34,4 +34,5 @@ This is my very first backend project built using **Node.js**, **Express.js** an
 ---
 
 ## 🙏 Showing gratitude
-Special thanks to Smoljames for tutorial of project. You can check out his content at (@smoljames)[https://www.youtube.com/@Smoljames]
+Special thanks to Smoljames for tutorial of project. You can check out his content at [@smoljames](https://www.youtube.com/@Smoljames)
+
