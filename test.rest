@@ -1,0 +1,19 @@
+### TEST GET / WEBSITE
+GET http://localhost:8080
+
+### TEST GET /dashboard WEBSITE
+GET http://localhost:8080/dashboard
+
+### DATA ENDPOINT
+GET http://localhost:8080/api/data
+
+### DATA ENDPOINT FOR ADDING A USER
+POST http://localhost:8080/api/data
+Content-Type: application/json
+
+{
+    "nick_name": "shlorp"
+}
+
+### DELETE ENDPOINT
+DELETE http://localhost:8080/api/data
